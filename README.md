@@ -5,7 +5,6 @@
 ### *An efficient sorting algorithm implementation using two stacks*
 
 [![42 School](https://img.shields.io/badge/42-School-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
-[![Norminette](https://img.shields.io/badge/Norminette-passing-success?style=for-the-badge)](https://github.com/42School/norminette)
 [![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Grade](https://img.shields.io/badge/Grade-125%2F100-brightgreen?style=for-the-badge)](https://github.com/FatemehYSF/push_swap)
 
@@ -432,19 +431,6 @@ Through this project, you will learn:
 - 🧪 **Testing strategies** for algorithmic problems
 - 💾 **Memory management** in C
 
----
-
-## 📜 License
-
-This project is part of the 42 School curriculum and follows the school's academic policies.
-
----
-
-## 🙏 Acknowledgments
-
-- **42 School** for the challenging project
-- The **42 community** for discussions and insights
-- Various **algorithm visualization tools** that helped in understanding
 ---
 
 <div align="center">
