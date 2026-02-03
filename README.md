@@ -418,13 +418,6 @@ The program handles all edge cases:
 - [Sorting Algorithms Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Radix Sort Explained](https://www.programiz.com/dsa/radix-sort)
 
-### Helpful Tools
-
-- [Push_Swap Visualizer](https://github.com/o-reo/push_swap_visualizer)
-- [Push_Swap Tester](https://github.com/LeoFu9487/push_swap_tester)
-- [Checker Program](https://github.com/42Paris/42-Subjects)
-
-
 ---
 
 ## 🎓 Learning Outcomes
